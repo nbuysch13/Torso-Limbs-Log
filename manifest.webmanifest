@@ -1,0 +1,17 @@
+{
+  "name": "Torso / Limbs — Trainingslog",
+  "short_name": "Torso/Limbs",
+  "description": "Trainingslog für den Torso-Limbs-Split: Sätze, Gewichte, Pausentimer, Körpergewicht und Bestleistungen.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a110e",
+  "theme_color": "#0a110e",
+  "lang": "de",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
